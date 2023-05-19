@@ -21,7 +21,7 @@ const features = [
     imageUrl: 'img/postagens/felipe.png',
     description: (
       <>
-        Minha visão sobre tecnologia e ética no trabalho é discutida no blog, onde trato de assuntos técnicos, ética e o que faz um desenvolvedor ser realmente eficiente. Lá, abordo temas diversos, incluindo tecnologia e questões éticas, a ideia é compartilhar conhecimento útil do que aprendi durante os anos, compartilhando conhecimento técnico e também filosóficos, ressaltando que não basta apenas ter conhecimentos técnicos, mas também é fundamental promover uma cultura de trabalho saudável.
+       Minha visão sobre tecnologia, ética e inovação no trabalho é discutida no blog, onde trato de assuntos técnicos, ética e o que faz um desenvolvedor ser realmente eficiente. Lá, abordo temas diversos, incluindo tecnologia e questões éticas, a ideia é compartilhar conhecimento útil do que aprendi durante os anos, compartilhando conhecimento técnico e também filosóficos, ressaltando que não basta apenas ter conhecimentos técnicos, mas também é fundamental promover uma cultura de trabalho saudável e inovadora.
       </>
     ),
     hotmartUrl: '/blog',
@@ -58,16 +58,15 @@ function Feature({imageUrl, title, description, hotmartUrl, freeChapterUrl}) {
     <div className={clsx('col col--4', styles.feature)}>
       {imgUrl && (
         <div className="text--center">
-          <a href={hotmartUrl} target="_blank" rel="noopener noreferrer">
+          <Link to={hotmartUrl} rel="noopener noreferrer">
             <img className={styles.featureImage} src={imgUrl} alt={title} />
-          </a>
+          </Link>
         </div>
       )}
       <h3>{title}</h3>
       <p>{description}</p>
-      <div className="button-group">
-        <a href={hotmartUrl} className="button button--primary" target="_blank" rel="noopener noreferrer">Comprar na Hotmart</a>
-        <Link to={freeChapterUrl} className="button button--secondary">Capítulo grátis</Link>
+      <div className={clsx('button-group', 'text--center', styles.centerButtonGroup)}>
+        <Link to={hotmartUrl} className="button button--primary" target="_blank" rel="noopener noreferrer">Ira para a página</Link>
       </div>
     </div>
   );
@@ -81,32 +80,32 @@ export default function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <header className={clsx('hero hero--primary', styles.heroBanner, 'headerBackground')}>
-      <div className="container">
-  <h1 className="hero__title">{siteConfig.title}</h1>
+        <div className="container">
+          <h1 className="hero__title">{siteConfig.title}</h1>
 
-  <div className="hero__content row">
-    <div className="col col--3">
-      <div className="hero__image-container">
-        <Link to="/blog/joao-leandre-jorge" >
-        <img
-          className="hero__subtitle-image"
-          src={useBaseUrl('/img/autor/felipe-jorge.png')}
-          alt="Felipe Jorge Sales da Silva"
-          style={{ borderRadius: '8px' }}
-        />
-        </Link>
+          <div className="hero__content row">
+            <div className="col col--3">
+              <div className="hero__image-container">
+                <Link to="/blog/felipe-jorge-sales-da-silva" >
+                <img
+                  className="hero__subtitle-image"
+                  src={useBaseUrl('/img/autor/felipe-jorge.png')}
+                  alt="Felipe Jorge Sales da Silva"
+                  style={{ borderRadius: '8px' }}
+                />
+                </Link>
 
-      </div>
-    </div>
-    <div className="col col--9">
-      <div className="hero__text-container">
-        <p className="hero__subtitle">    
-          Felipe Jorge Sales da Silva é um Analista de Sistemas apaixonado por tecnologia e desenvolvimento web. Com mais de 7 anos de experiência, ele se destaca na criação e manutenção de websites, blogs e  sistemas, desenvolvendo sistemas altamente performáticos e acessíveis. Atualmente, ele é Desenvolvedor Front-end Angular no Santander Tecnologia Brasil. Felipe também é empreendedor, oferecendo serviços de criação de websites de qualidade e soluções inovadoras.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
+              </div>
+            </div>
+            <div className="col col--9">
+              <div className="hero__text-container">
+                <p className="hero__subtitle">    
+                  Felipe Jorge Sales da Silva é um Analista de Sistemas apaixonado por tecnologia e desenvolvimento web. Com mais de 7 anos de experiência, ele se destaca na criação e manutenção de websites, blogs e  sistemas, desenvolvendo sistemas altamente performáticos e acessíveis. Atualmente, ele é Desenvolvedor Front-end Angular no Santander Tecnologia Brasil. Felipe também é empreendedor, oferecendo serviços de criação de websites de qualidade e soluções inovadoras.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
       </header>
       <main>
         {features && features.length > 0 && (
