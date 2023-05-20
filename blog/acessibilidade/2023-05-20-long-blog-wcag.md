@@ -19,7 +19,9 @@ A acessibilidade é um conhecimento crucial para qualquer desenvolvedor web, poi
 
 A acessibilidade da web é a prática de projetar e criar websites, ferramentas e tecnologias para que possam ser usados por todas as pessoas, independentemente de suas habilidades físicas, sensoriais ou cognitivas. Isso é importante não apenas como uma questão de inclusão e direitos civis, mas também porque a acessibilidade na web oferece benefícios como melhor **SEO (Search Engine Optimization)** e maior alcance de audiência.
 
-As diretrizes do **WCAG** fornecem estratégias específicas e técnicas que ajudam os desenvolvedores a criar conteúdo que seja acessível para pessoas com deficiências. As diretrizes se concentram em quatro princípios principais, que são:
+
+
+As **[diretrizes](https://www.w3.org/TR/WCAG22/)** do **WCAG**  fornecem estratégias específicas e técnicas que ajudam os desenvolvedores a criar conteúdo que seja acessível para pessoas com deficiências. As diretrizes se concentram em quatro princípios principais, que são:
 
 1. **Perceptível**: As informações e os componentes da interface do usuário devem ser apresentáveis aos usuários de maneiras que eles possam perceber. Isso inclui oferecer alternativas de texto para imagens, legendas para multimídia e criar um design e layout que permitam a compreensão eficaz do conteúdo.
 
@@ -51,7 +53,14 @@ Este tipo de avaliação é feita com ferramentas automatizadas de acessibilidad
 
 Este tipo de avaliação é realizada por humanos que manualmente verificam o site ou aplicação para problemas de acessibilidade. Isso pode incluir coisas como navegar pelo site apenas com o teclado, usar tecnologias assistivas (como leitores de tela) para interagir com o site, ou simplesmente verificar se o conteúdo faz sentido quando lido fora de ordem. As avaliações manuais são necessárias porque muitos aspectos da acessibilidade dependem do contexto e da interpretação, algo que as ferramentas automatizadas não são capazes de fornecer.
 
+### Qual avaliação devo utilizar?
+
 Idealmente, um site ou aplicação deve passar por ambos os tipos de avaliação para garantir a maior acessibilidade possível. Cada método tem suas próprias vantagens e limitações, e a combinação de ambos fornece a avaliação mais completa e precisa da acessibilidade de um site ou aplicação.
+
+**Abaixo segue as diretivas do WCAG para aplicar em seus sistemas**, se seguir todos a risca você terá um sistema 100% acessível, note que as diretivas podem mudar de acordo com o ano, por isso é necessário verificar se você está usando a diretiva mais atualizada no momento.
+
+[Diretivas do WCAG](https://www.w3.org/TR/WCAG22/#later-versions-of-accessibility-guidelines)
+
 
 ## Conclusão
 
