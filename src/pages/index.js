@@ -100,7 +100,7 @@ export default function Home() {
             <div className="col col--9">
               <div className="hero__text-container">
                 <p className="hero__subtitle">    
-                  Felipe Jorge Sales da Silva é um Analista de Sistemas apaixonado por tecnologia e desenvolvimento web. Com mais de 7 anos de experiência, ele se destaca na criação e manutenção de websites, blogs e  sistemas, desenvolvendo sistemas altamente performáticos e acessíveis. Atualmente, ele é Desenvolvedor Front-end Angular no Santander Tecnologia Brasil. Felipe também é empreendedor, oferecendo serviços de criação de websites de qualidade e soluções inovadoras.
+                  Felipe Jorge Sales da Silva é um Analista de Sistemas apaixonado por tecnologia e desenvolvimento web. Com mais de 8 anos de experiência, ele se destaca na criação e manutenção de websites, blogs e  sistemas, desenvolvendo sistemas altamente performáticos e acessíveis. Atualmente, ele é Desenvolvedor Front-end Angular no Santander Tecnologia Brasil. Felipe também é empreendedor, oferecendo serviços de criação de websites de qualidade e soluções inovadoras.
                 </p>
               </div>
             </div>
