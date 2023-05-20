@@ -44,7 +44,7 @@ const config = {
         blog: {
           showReadingTime: true,
           postsPerPage: 100,
-          blogSidebarCount: 5,
+          blogSidebarCount: 15,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:

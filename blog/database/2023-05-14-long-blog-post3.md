@@ -2,7 +2,7 @@
 slug: database/forma-normal-exemplo-pratico
 title: Forma Normal, exemplo prático
 authors: [felipe]
-tags: [hello, docusaurus]
+tags: [tecnologia, database]
 ---
 
 # 2. Conceitos de Banco de Dados e Forma Normal

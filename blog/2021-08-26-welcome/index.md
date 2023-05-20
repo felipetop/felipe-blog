@@ -9,7 +9,7 @@ tags: [tecnologia]
 
 ### Sobre
 
-Sou Felipe Jorge Sales da Silva, um Analista de Sistemas apaixonado por tecnologia e desenvolvimento web. Com mais de 7 anos de experiência em programação, sou formado em Análise e Desenvolvimento de Sistemas pelo IFSP e possuo uma pós-graduação em Software para Web pela UFSCar. Atualmente, trabalho como Desenvolvedor Front-end Angular no Santander Tecnologia Brasil, localizado em São Carlos, São Paulo.
+Sou Felipe Jorge Sales da Silva, um Analista de Sistemas apaixonado por tecnologia e desenvolvimento web. Com mais de 8 anos de experiência em programação, sou formado em Análise e Desenvolvimento de Sistemas pelo IFSP e possuo uma pós-graduação em Software para Web pela UFSCar. Atualmente, trabalho como Desenvolvedor Front-end Angular no Santander Tecnologia Brasil, localizado em São Carlos, São Paulo.
 
 Possuo um perfil sênior e amplo conhecimento em desenvolvimento full-stack, tendo liderado e conduzido projetos em diversas empresas. Trabalho com metodologias ágeis, como Scrum e Kanban, e possuo habilidades em code review, front-end, back-end e bancos de dados relacionais.
 

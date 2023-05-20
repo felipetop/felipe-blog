@@ -2,7 +2,7 @@
 slug: estrutura-de-dados/introdução
 title: Estrutura de Dados e Algoritmos
 authors: [felipe]
-tags: [hello, docusaurus]
+tags: [tecnologia, estrutura-de-dados]
 ---
 
 
