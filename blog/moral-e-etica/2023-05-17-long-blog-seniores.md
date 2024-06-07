@@ -1,5 +1,5 @@
 ---
-slug: database/agilidade-e-senioridade
+slug: programacao/agilidade-e-senioridade
 title: Agilidade, Scrum, Kanban e Cultura de Code Review, essencial para um Sênior?
 authors: [felipe]
 tags: [tecnologia, agilidade, moral-e-etica]
