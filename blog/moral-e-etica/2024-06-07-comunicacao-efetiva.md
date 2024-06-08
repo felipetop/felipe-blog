@@ -58,7 +58,7 @@ Um estudo publicado pela National Training Laboratories sugere que a retenção 
 - 30% do que aprendemos através de demonstração é retido.
 - 50% do que aprendemos através de discussão em grupo é retido.
 - 75% do que aprendemos ao praticar fazendo é retido.
-- 90% do que ensinamos aos outros é retido&#8203;:citation[oaicite:1]{index=1}&#8203;&#8203;:citation[oaicite:0]{index=0}&#8203;.
+- 90% do que ensinamos aos outros é retido
 
 Esses dados destacam a importância de métodos de aprendizado ativos e envolventes para melhorar a retenção de informações. O envolvimento ativo dos participantes durante as reuniões, utilizando diferentes métodos de ensino e garantindo que as informações sejam apresentadas de maneira clara e envolvente, pode aumentar significativamente a retenção de informações.
 
