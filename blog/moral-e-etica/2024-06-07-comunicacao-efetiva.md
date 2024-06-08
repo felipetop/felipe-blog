@@ -52,20 +52,19 @@ A retenção de informações em reuniões é um desafio conhecido. Estudos most
 
 Um estudo publicado pela National Training Laboratories sugere que a retenção de informações varia significativamente de acordo com o método de ensino. Por exemplo:
 
-- 5% do que aprendemos em palestras é retido.
-- 10% do que lemos é retido.
-- 20% do que aprendemos através de áudio-visual é retido.
-- 30% do que aprendemos através de demonstração é retido.
-- 50% do que aprendemos através de discussão em grupo é retido.
-- 75% do que aprendemos ao praticar fazendo é retido.
-- 90% do que ensinamos aos outros é retido
+- **Palestra (5%)**: Um método passivo onde o aluno escuta o professor falar. A retenção é baixa porque os alunos não estão ativamente envolvidos.
+- **Leitura (10%)**: Também um método passivo, mas ligeiramente melhor do que palestras.
+- **Áudio-visual (20%)**: Inclui vídeos e apresentações que combinam áudio e imagem. A retenção é melhor porque envolve mais sentidos.
+- **Demonstração (30%)**: Envolve mostrar como algo é feito, o que melhora a retenção em comparação com métodos puramente passivos.
+- **Discussão em grupo (50%)**: A retenção melhora significativamente quando os alunos discutem e interagem com o material em grupo.
+- **Praticar fazendo (75%)**: Colocar em prática o que foi aprendido leva a uma retenção muito maior porque envolve a aplicação ativa do conhecimento.
+- **Ensinar aos outros (90%)**: O método mais eficaz, pois ensinar força o professor a organizar o conhecimento de maneira clara e compreensível, consolidando assim a própria compreensão e retenção.
 
 Esses dados destacam a importância de métodos de aprendizado ativos e envolventes para melhorar a retenção de informações. O envolvimento ativo dos participantes durante as reuniões, utilizando diferentes métodos de ensino e garantindo que as informações sejam apresentadas de maneira clara e envolvente, pode aumentar significativamente a retenção de informações.
 
 > "Se o grupo permanecer quieto, verifique. Pergunte, 'Por que está quieto? Vocês estão pensando? Confusos? Não interessados?' Você pode perceber que eles não entenderam a pergunta ou que estão distraídos por outro problema." — Harvard Graduate School of Education
 
-Para mais detalhes, confira o estudo completo no artigo ["Making Meetings Work" da Harvard Graduate School of Education](https://www.gse.harvard.edu/news/uk/18/05/making-meetings-work) e as discussões sobre retenção de informações no artigo da [Education Corner](https://www.educationcorner.com/the-learning-pyramid/) e do [The Peak Performance Center](https://thepeakperformancecenter.com/educational-learning/learning/principles-of-learning/learning-pyramid/).
-
+Para mais detalhes, confira o estudo completo no artigo ["Making Meetings Work" da Harvard Graduate School of Education](https://www.gse.harvard.edu/news/uk/18/05/making-meetings-work) e as discussões sobre retenção de informações no artigo da [Education Corner](https://www.educationcorner.com/the-learning-pyramid/) e do [The Peak Performance Center](https://thepeakperformancecenter.com/educational-learning/learning/principles-of-learning/learning-pyramid/retention-rates/).
 
 
 ### A Importância de Perguntar
